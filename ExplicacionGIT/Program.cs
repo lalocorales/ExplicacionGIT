@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         int opcion;
-
+        //Eduardo Corrales Iturbe
         do
         {
             Console.Clear();
